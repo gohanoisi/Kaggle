@@ -1,0 +1,14 @@
+artifact_uri: file:///g:/%E3%83%9E%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96/%E5%AD%A6%E6%A0%A1/3%E5%B9%B4/1%E5%89%8D%E6%9C%9F/1%E6%9C%88/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%96%8B%E7%99%BA/2025-07-14/spaceship-titanic/notebook/mlruns/808553836601104335/02f17d76871e47bbad79fb3de3be0d03/artifacts
+end_time: 1752676609168
+entry_point_name: ''
+experiment_id: '808553836601104335'
+lifecycle_stage: active
+run_id: 02f17d76871e47bbad79fb3de3be0d03
+run_name: exp_04_catboost_gpu
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676608550
+status: 3
+tags: []
+user_id: gohan
