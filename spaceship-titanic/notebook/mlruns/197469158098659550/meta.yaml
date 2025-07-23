@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/c/dev/AI/kaggle/spaceship-titanic/notebook/mlruns/197469158098659550
+creation_time: 1753227512415
+experiment_id: '197469158098659550'
+last_update_time: 1753227512415
+lifecycle_stage: active
+name: exp_06_lgbm_sgk

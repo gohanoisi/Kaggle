@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/dev/AI/kaggle/spaceship-titanic/notebook/mlruns/197469158098659550/2ae81ac7bee94fff9fa745af99279121/artifacts
+end_time: 1753227802882
+entry_point_name: ''
+experiment_id: '197469158098659550'
+lifecycle_stage: active
+run_id: 2ae81ac7bee94fff9fa745af99279121
+run_name: exp_06_lgbm_sgk
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753227799754
+status: 3
+tags: []
+user_id: gohan
